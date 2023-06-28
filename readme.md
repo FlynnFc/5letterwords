@@ -16,6 +16,7 @@ Generate
 
     const newWord = generate()
     <!-- "zebra" --->
+    [comment]: # (This actually is the most platform independent comment)
 
 isValid 
 
