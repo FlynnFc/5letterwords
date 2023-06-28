@@ -1,7 +1,7 @@
-import data from './words.json';
-
-const dataArray = Array.from(Object.keys(data));
-const dataMap = new Map(Object.entries(data));
+import possibleAnswers from './words.json';
+import allowedWords from './all5Letterwords.json'
+const dataArray = Array.from(Object.keys(possibleAnswers));
+const dataMap = new Set(Object.keys(allowedWords))
 
 function random() {
   const randomIndex = Math.floor(Math.random() * dataArray.length);

@@ -1,6 +1,6 @@
 {
   "name": "5letterwords",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Generates a random 5 letter word and validates strings if they are present in the list of words",
   "scripts": {
     "build": "tsc",
