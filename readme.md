@@ -1,6 +1,6 @@
 # 5 Letter words
 
-## Generate and validate random 5 letter words
+## Generate and validate random 5-letter words
 
 
 Installation:
