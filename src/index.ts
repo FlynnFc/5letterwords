@@ -1,4 +1,4 @@
-import data from "../words.json";
+import data from './words.json';
 
 const dataArray = Array.from(Object.keys(data));
 const dataMap = new Map(Object.entries(data));

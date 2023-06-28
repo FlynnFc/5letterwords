@@ -1,14 +1,18 @@
 {
   "name": "5letterwords",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Generates a random 5 letter word and validates strings if they are present in the list of words",
   "scripts": {
     "build": "tsc",
     "test": "npm run test"
   },
   "keywords": [
-    "words"
+    "words","random words","word checker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlynnFc/5letterwords.git"
+  },
   "author": "Flynn F.C",
   "license": "ISC",
   "main": "dist/index.js",

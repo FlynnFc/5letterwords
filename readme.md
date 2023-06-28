@@ -12,9 +12,9 @@ Examples:
 
 Generate
 
-    import {generate}  from '5letterwords';
+    import {random}  from '5letterwords';
 
-    const newWord = generate()
+    const newWord = random()
     <!-- "zebra" --->
 
 isValid 
